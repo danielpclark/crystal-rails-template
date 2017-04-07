@@ -1,8 +1,8 @@
 # Crystal Rails Template
 
-This is a sample Rails-like project written in Crystal.  The goal is to organize and
-utilize the underlying web framework in such a way that it feels as familiar as developing
-in Rails itself.
+This is a sample Rails-like project written in Crystal.  Technically it's [Kemal](kemalcr.com) but abstracted
+away.  The goal is to organize and utilize the underlying web framework in such a way that it
+feels as familiar as developing in Rails itself.
 
 This project should be considered a template and example only. This will not be versioned
 and will have breaking changes if you were to depend on this as a code dependency.  To use
