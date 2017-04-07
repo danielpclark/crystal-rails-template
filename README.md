@@ -14,7 +14,7 @@ This project is open for continued advancement towards a more Rails-like design.
 
 ## Deployment
 
- * **Heroku**: At this time the Heroku buildpack for Crystal conflicts with the use of the `app` directory.  See issue: https://github.com/crystal-lang/heroku-buildpack-crystal/issues/19 .  Until this issue is resolved you may use an alternative one I've made: https://github.com/danielpclark/heroku-buildpack-crystal
+ * **Heroku**: At this time the Heroku buildpack for Crystal conflicts with the use of the `app` directory.  See issue: [crystal-lang/heroku-buildpack-crystal/issues/19](https://github.com/crystal-lang/heroku-buildpack-crystal/issues/19) .  Until this issue is resolved you may use an alternative one I've made: [danielpclark/heroku-buildpack-crystal](https://github.com/danielpclark/heroku-buildpack-crystal)
 
 ## Contributing
 
