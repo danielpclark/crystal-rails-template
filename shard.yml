@@ -1,0 +1,19 @@
+name: railslike
+
+authors:
+  - Daniel P. Clark <6ftdan@gmail.com>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  topaz:
+    github: topaz-crystal/topaz
+
+targets:
+  railslike:
+    main: src/railslike.cr
+
+crystal: 0.21.1
+
+license: MIT
