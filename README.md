@@ -8,6 +8,17 @@ This project should be considered a template and example only. This will not be 
 and will have breaking changes if you were to depend on this as a code dependency.  To use
 this repo simply clone it and make your modifications.
 
+## Why
+
+1) It's a great learning experience.
+
+2) The Crystal language is still young and likely has many breaking changes ahead in it's future.  This
+is already evident from the [Frost](https://github.com/ysbaddaden/frost) project which was meant to be Rails for Crystal but hasn't been updated
+in about a year and stopped working with Crystal many minor versions ago.  The best way to work with Crystal
+while it's still young and volatile is to work with simple and smaller abstractions with the minimum amount
+of contingency on the non-Rubyish parts of the language.  This will help keep your project alive as Crystal
+evolves.
+
 ## Development
 
 This project is open for continued advancement towards a more Rails-like design.
