@@ -1,4 +1,5 @@
 name: railslike
+version: Fixed
 
 authors:
   - Daniel P. Clark <6ftdan@gmail.com>
@@ -7,8 +8,10 @@ dependencies:
   kemal:
     github: kemalcr/kemal
     branch: master
-  topaz:
-    github: topaz-crystal/topaz
+
+# TODO: Add DB code
+# topaz:
+#   github: topaz-crystal/topaz
 
 targets:
   railslike:

@@ -1,2 +1,3 @@
-require "topaz"
+# TODO: Add DB logic
+# require "topaz"
 
