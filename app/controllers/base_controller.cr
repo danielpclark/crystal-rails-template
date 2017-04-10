@@ -1,5 +1,4 @@
 require "ecr/macros"
-require "kemal/param_parser"
 
 module Railslike
   module Controllers
