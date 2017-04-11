@@ -13,7 +13,7 @@ module Railslike
 
       forward_missing_to inner_context
 
-      private property inner_context
+      private getter inner_context
 
       private def css_asset(file = "application.css")
         "/stylesheets/#{file}"
